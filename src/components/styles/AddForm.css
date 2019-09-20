@@ -1,0 +1,17 @@
+.submitButton {
+    border: 1px solid rgb(40, 185, 181);
+    background-color: white;
+    color: rgb(40, 185, 181);
+    border-radius: 50%;
+}
+
+.submitButton:hover {
+    background-color: rgb(40, 185, 181);
+    color: white;
+    border-color: white;
+}
+
+.errorMessage {
+    color: red;
+    margin-left: 5px;
+}

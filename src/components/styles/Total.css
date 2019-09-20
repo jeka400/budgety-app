@@ -1,0 +1,10 @@
+.totalBox {
+    color: white;
+    width: 400px;
+    margin: 10px auto;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+

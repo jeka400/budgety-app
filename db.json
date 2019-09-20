@@ -1,0 +1,36 @@
+{
+  "incomes": [
+    {
+      "category": "income",
+      "description": "Paycheck",
+      "value": "100000",
+      "id": 1
+    },
+    {
+      "description": "Photography",
+      "value": "5000",
+      "category": "income",
+      "id": 2
+    },
+    {
+      "category": "income",
+      "description": "Website",
+      "value": "50000",
+      "id": 3
+    }
+  ],
+  "expenses": [
+    {
+      "category": "expense",
+      "description": "Food",
+      "value": "50000",
+      "id": 1
+    },
+    {
+      "category": "expense",
+      "description": "Rent",
+      "value": "20000",
+      "id": 2
+    }
+  ]
+}

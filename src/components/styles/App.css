@@ -1,0 +1,53 @@
+.total {
+    background-color: gray;
+    height: 400px;
+    
+}
+
+.total > .container,
+.total > .container > .row {
+    height: 100%;
+}
+
+.total > .container > .row > div {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+.date {
+    color: white;
+    margin-bottom: 40px;
+}
+
+.renderTotal {
+    color: white;
+    font-size: 40px;
+}
+
+.form-inline {
+    justify-content: center;
+    padding: 40px;
+}
+
+.listTitleIncome {
+    color: #28B9B5;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+
+.listTitleExpenses {
+    color: #FF5049;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
